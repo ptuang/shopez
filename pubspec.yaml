@@ -10,11 +10,27 @@ dependencies:
   firebase_core: ^2.24.0
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.14.1
+  cloud_firestore: ^4.13.2
+  rflutter_alert: ^2.0.7
+  sliding_clipped_nav_bar: ^3.1.0+4
+  grouped_list: ^5.1.2
+  firebase_storage: ^11.5.5
+  flutter_rating_bar: ^4.0.1
+  intl: ^0.19.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  flutter_native_splash: ^2.3.6
+
+flutter_native_splash:
+  image: assets/images/splash_shop_ez.png
+  color: "#e2f3f7" #light blue color, 38b6ff as darker blue
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/

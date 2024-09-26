@@ -1,0 +1,4 @@
+#Sun Dec 10 22:28:55 EST 2023
+base.0=C\:\\Users\\woneo\\StudioProjects\\mad_final_project_shop_ez\\shopez\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
